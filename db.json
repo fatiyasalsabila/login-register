@@ -1,0 +1,40 @@
+{
+  "akuns": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "123",
+      "role": "admin"
+    },
+    {
+      "username": "fatiya",
+      "password": "333",
+      "role": "user",
+      "id": 2
+    },
+    {
+      "username": "fty salsabila",
+      "password": "222",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "username": "salsa",
+      "password": "345",
+      "role": "siswa",
+      "id": 4
+    },
+    {
+      "username": "fty",
+      "password": "232",
+      "role": "siswa",
+      "id": 5
+    },
+    {
+      "username": "fty sls",
+      "password": "121",
+      "role": "siswa",
+      "id": 6
+    }
+  ]
+}
