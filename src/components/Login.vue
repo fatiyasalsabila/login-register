@@ -92,6 +92,6 @@ export default {
 </script>
 <style scoped>
   .kotak_login {
-    background-image: linear-gradient(skyblue, violet, lightgreen );
+    background-image: linear-gradient(skyblue, violet);
   }
 </style>

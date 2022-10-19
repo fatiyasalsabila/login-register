@@ -44,12 +44,12 @@ const routes = [
         component: Contact
     },
     {
-        path: '/Produk',
+        path: '/produk',
         name: 'ProdukPage',
         component: Produk
     },
     {
-        path: '/Detail',
+        path: '/detail',
         name: 'DetailPage',
         component: Detail
     }

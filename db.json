@@ -36,5 +36,133 @@
       "role": "siswa",
       "id": 6
     }
+  ],
+  "pesawats": [
+    {
+      "nama": "Airbus A320",
+      "bermuatan": "236 penumpang",
+      "tempuh": "jarak 3.100 km hingga 12.000 km",
+      "id": 7
+    },
+    {
+      "nama": "ATR 72",
+      "bermuatan": "68-78 penumpang",
+      "tempuh": "pendek 1.648 kilometer",
+      "id": 8
+    },
+    {
+      "nama": "Boeing 777",
+      "bermuatan": "314 hingga 396 penumpang",
+      "tempuh": "9.695 sampai 17.372 km",
+      "id": 9
+    },
+    {
+      "nama": "Piaggio P180 Avanti",
+      "bermuatan": "-",
+      "tempuh": "2.795 km",
+      "id": 10
+    },
+    {
+      "nama": "Airbus A330",
+      "bermuatan": "440 orang",
+      "tempuh": "13.334 kilometer",
+      "id": 11
+    }
+  ],
+  "motors": [
+    {
+      "merk": "Yamaha",
+      "harga": "Rp 31,12 Juta",
+      "negara": "Jepang",
+      "id": 12
+    },
+    {
+      "merk": "Kawasaki",
+      "negara": "Jepang",
+      "harga": "Rp 102,6 - 120 Juta",
+      "id": 13
+    },
+    {
+      "merk": "Harley Davidson",
+      "negara": "Jepang",
+      "harga": "Rp 273,00 Juta",
+      "id": 14
+    },
+    {
+      "merk": "Aprilia",
+      "negara": "Italia",
+      "harga": "Rp 65,60 Juta",
+      "id": 15
+    },
+    {
+      "merk": "BMW ",
+      "negara": "Jepang",
+      "harga": "Rp 1,15 - 1,25 Milyar",
+      "id": 16
+    }
+  ],
+  "mobils": [
+    {
+      "merk": "Mazda",
+      "harga": "Rp 523,3 Juta",
+      "buatan": "Jepang",
+      "id": 17
+    },
+    {
+      "merk": "Suzuki",
+      "harga": "Rp207.2 - 217.5 Juta",
+      "buatan": "Jepang",
+      "id": 18
+    },
+    {
+      "merk": "Mitsubishi",
+      "harga": "Rp338 - 383.5 Juta",
+      "buatan": "Jepang",
+      "id": 19
+    },
+    {
+      "merk": "KIA",
+      "harga": "Rp 230,6 - 325,4 Juta ",
+      "buatan": "Korea Selatan",
+      "id": 20
+    },
+    {
+      "merk": "Nissan",
+      "harga": "Rp478.9 - 680.8 Juta ",
+      "buatan": "Jepang",
+      "id": 21
+    }
+  ],
+  "buts": [
+    {
+      "nama": "Bus Super High Decker (SHD)",
+      "tinggi": " 3,9 meter",
+      "kapasitas": " 59 penumpang",
+      "id": 22
+    },
+    {
+      "nama": "Bus High Decker Double Glass (HDDG)",
+      "tinggi": "  3,7 meter",
+      "kapasitas": " 59 penumpang",
+      "id": 23
+    },
+    {
+      "nama": "Bus Double Decker (DD)",
+      "tinggi": " 4,15 meter",
+      "kapasitas": " 96 penumpang.",
+      "id": 24
+    },
+    {
+      "nama": " Bus normal deck",
+      "tinggi": " 3 meter",
+      "kapasitas": " 60 penumpang (2-3) dan 50 orang (2-2),",
+      "id": 25
+    },
+    {
+      "nama": "Bus Ultra High Decker (UHD)",
+      "tinggi": " 4 meter",
+      "kapasitas": "52 orang.",
+      "id": 26
+    }
   ]
 }
